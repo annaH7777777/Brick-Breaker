@@ -16,7 +16,7 @@ public class StartMenu : MonoBehaviour
     public void QuitGame()
     {
         Application.Quit();
-        Debug.Log("Quit buttin pushed");
+        Debug.Log("Quit button pushed");
     }
 
     public void StartGame()
